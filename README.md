@@ -16,7 +16,7 @@ If you already have your environment configured:
 2. Ensure you have the required libraries in place:
    - SDL3 development files at `C:/libs/SDL3-devel-3.4.8-mingw`
    - SDL3 runtime binaries at `C:/libs/SDL3-3.4.8-win32-x64` (and added to your User **Path** variable)
-   - GLAD (GLES 3.0) generated and extracted to `C:/libs/glad-0.1.36/gles-3.0`
+   - GLAD (OpenGL 3.3) generated and extracted to `C:/libs/glad-0.1.36/opengl-3.3`
 3. Use the provided automation scripts to manage your build:
    - `config-exe.bat` — Configures the project using CMake.
    - `build-exe.bat` — Compiles the binary into the build directory.
